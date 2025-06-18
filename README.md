@@ -51,20 +51,22 @@ This repository contains the completed work for *Task 3* of my Cybersecurity Int
 ---
 
 ## 📂 Folder Structure
-
-
+<pre>
+📁 Folder Structure
+```
 FUTURE_CS_03/
-
 ├── app.py                  – Main Flask application  
 ├── encryption_utils.py     – Encryption/decryption functions  
 ├── .env                    – Stores AES key securely  
 ├── templates/  
 │   └── index.html          – Frontend HTML page  
 ├── reports/  
-│   └── [PDF report here]  
+│   └── secure_file_sharing_task3.pdf  
 ├── screenshots/  
-│   └── [All screenshot images]  
-└── README.md
+│   └── [your screenshots here]  
+└── README.md  
+```
+</pre>
 
 
 ---
