@@ -118,10 +118,15 @@ Through this task, I gained hands-on experience in:
 ✅ Project uploaded to GitHub
 
 ---
+## 💡 Highlights 
+✔️ This project was successfully cloned, tested, and executed locally
+✔️ Flask server ran on http://127.0.0.1:5000 and file encryption/decryption was validated
+
+---
 
 ## 📌 Tags
 
-#CyberSecurity #PythonFlask #AESencryption #FileSecurity #InternshipProject #FutureInterns #OWASP #WebApplicationSecurity
+#CyberSecurity #PythonFlask #AESencryption #FileSecurity #InternshipProject #FutureInterns #SecureFileSharing #Encryption #PyCryptdome #SecureCoding 
 
 ---
 
